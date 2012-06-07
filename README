@@ -1,0 +1,6 @@
+Full-stack application development demo.
+
+Includes:
+Jasmine
+
+Jasmine SpecRunner has been modified to run with Require.js to load required libraries.
